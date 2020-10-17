@@ -27,7 +27,9 @@ target/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
-!**/src/test/**/build/
+!**/src/test/**/bgit ruild/
 
 ### VS Code ###
 .vscode/
+/.idea/
+/.idea/
